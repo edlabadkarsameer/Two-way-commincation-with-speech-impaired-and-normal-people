@@ -1,0 +1,8 @@
+pyttsx3
+PyAudio
+SpeechRecognition
+datetime
+os
+sys
+opencv-python
+mediapipe
